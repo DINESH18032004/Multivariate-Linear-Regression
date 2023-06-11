@@ -39,10 +39,6 @@ print("Account",regr.predict([[3300,1300]]))
 ```
 ## Output:
 ![image](https://github.com/DINESH18032004/Multivariate-Linear-Regression/assets/119477784/b52947a7-8a5f-40fc-ae80-14b5457cedd9)
-### Insert your output
-
-<br>
-
 ## Result
 
 Thus the multivariate linear regression is implemented and predicted the output using python program.
